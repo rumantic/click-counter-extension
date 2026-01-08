@@ -10,6 +10,11 @@ function initLocalization() {
   document.getElementById('resetBtn').textContent = chrome.i18n.getMessage('resetButton');
 }
 
+// Функция для форматирования чисел с разделителями
+function formatNumber(num) {
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+}
+
 // Функция для форматирования дистанции
 function formatDistance(distanceInPixels) {
   // Конвертируем пиксели в метры (примерно 96 пикселей = 1 дюйм = 2.54 см)
@@ -36,10 +41,11 @@ function loadStats() {
     'totalDistance',
     'totalScroll'
   ], (result) => {
-    document.getElementById('totalClicks').textContent = result.totalClicks || 0;
-    document.getElementById('leftClicks').textContent = result.leftClicks || 0;
-    document.getElementById('rightClicks').textContent = result.rightClicks || 0;
-    document.getElementById('middleClicks').textContent = result.middleClicks || 0;
+    // Форматируем числа с разделителями тысяч
+    document.getElementById('totalClicks').textContent = formatNumber(result.totalClicks || 0);
+    document.getElementById('leftClicks').textContent = formatNumber(result.leftClicks || 0);
+    document.getElementById('rightClicks').textContent = formatNumber(result.rightClicks || 0);
+    document.getElementById('middleClicks').textContent = formatNumber(result.middleClicks || 0);
     
     // Отображаем дистанцию курсора
     document.getElementById('distance').textContent = formatDistance(result.totalDistance || 0);
