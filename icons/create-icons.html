@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Icon Generator</title>
+</head>
+<body>
+  <canvas id="canvas16" width="16" height="16"></canvas>
+  <canvas id="canvas48" width="48" height="48"></canvas>
+  <canvas id="canvas128" width="128" height="128"></canvas>
+  
+  <script>
+    // Функция для создания иконки
+    function createIcon(canvasId, size) {
+      const canvas = document.getElementById(canvasId);
+      const ctx = canvas.getContext('2d');
+      
+      // Фон - градиент
+      const gradient = ctx.createLinearGradient(0, 0, size, size);
+      gradient.addColorStop(0, '#667eea');
+      gradient.addColorStop(1, '#764ba2');
+      ctx.fillStyle = gradient;
+      ctx.fillRect(0, 0, size, size);
+      
+      // Курсор мыши (белый)
+      ctx.fillStyle = 'white';
+      ctx.strokeStyle = '#333';
+      ctx.lineWidth = size / 32;
+      
+      const scale = size / 128;
+      const centerX = size / 2;
+      const centerY = size / 2;
+      
+      // Рисуем упрощенный курсор
+      ctx.beginPath();
+      ctx.moveTo(centerX - 15 * scale, centerY - 20 * scale);
+      ctx.lineTo(centerX - 15 * scale, centerY + 20 * scale);
+      ctx.lineTo(centerX - 5 * scale, centerY + 5 * scale);
+      ctx.lineTo(centerX + 5 * scale, centerY + 25 * scale);
+      ctx.lineTo(centerX + 12 * scale, centerY + 22 * scale);
+      ctx.lineTo(centerX + 5 * scale, centerY + 2 * scale);
+      ctx.lineTo(centerX + 20 * scale, centerY - 5 * scale);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      
+      // Цифры (счетчик)
+      ctx.fillStyle = 'white';
+      ctx.font = `bold ${size * 0.3}px Arial`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('123', centerX + 10 * scale, centerY - 25 * scale);
+      
+      // Скачивание
+      const link = document.createElement('a');
+      link.download = `icon${size}.png`;
+      link.href = canvas.toDataURL();
+      link.click();
+    }
+    
+    // Создаем все иконки
+    setTimeout(() => {
+      createIcon('canvas16', 16);
+      setTimeout(() => {
+        createIcon('canvas48', 48);
+        setTimeout(() => {
+          createIcon('canvas128', 128);
+          document.body.innerHTML += '<h2>Иконки созданы и скачаны!</h2><p>Переместите их в папку icons/</p>';
+        }, 100);
+      }, 100);
+    }, 100);
+  </script>
+</body>
+</html>
