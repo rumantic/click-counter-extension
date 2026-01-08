@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "Click Counter",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Count mouse clicks and track cursor distance. Monitor click statistics and mouse movement.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "🖱️ Click Counter"
+  },
+  "totalClicks": {
+    "message": "Total Clicks:"
+  },
+  "leftButton": {
+    "message": "Left Button:"
+  },
+  "rightButton": {
+    "message": "Right Button:"
+  },
+  "middleButton": {
+    "message": "Middle Button:"
+  },
+  "cursorDistance": {
+    "message": "📏 Cursor Traveled:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Scrolled Distance:"
+  },
+  "resetButton": {
+    "message": "Reset Counter"
+  },
+  "resetConfirm": {
+    "message": "Are you sure you want to reset the counter?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  }
+}

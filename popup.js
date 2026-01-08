@@ -1,3 +1,15 @@
+// Инициализация локализации
+function initLocalization() {
+  document.getElementById('popup-title').textContent = chrome.i18n.getMessage('popupTitle');
+  document.getElementById('label-total-clicks').textContent = chrome.i18n.getMessage('totalClicks');
+  document.getElementById('label-left-button').textContent = chrome.i18n.getMessage('leftButton');
+  document.getElementById('label-right-button').textContent = chrome.i18n.getMessage('rightButton');
+  document.getElementById('label-middle-button').textContent = chrome.i18n.getMessage('middleButton');
+  document.getElementById('label-cursor-distance').textContent = chrome.i18n.getMessage('cursorDistance');
+  document.getElementById('label-scroll-distance').textContent = chrome.i18n.getMessage('scrollDistance');
+  document.getElementById('resetBtn').textContent = chrome.i18n.getMessage('resetButton');
+}
+
 // Функция для форматирования дистанции
 function formatDistance(distanceInPixels) {
   // Конвертируем пиксели в метры (примерно 96 пикселей = 1 дюйм = 2.54 см)
@@ -6,11 +18,11 @@ function formatDistance(distanceInPixels) {
   
   // Форматируем вывод в зависимости от расстояния
   if (distanceInKm >= 1) {
-    return distanceInKm.toFixed(2) + ' км';
+    return distanceInKm.toFixed(2) + ' ' + chrome.i18n.getMessage('unitKm');
   } else if (distanceInMeters >= 1) {
-    return distanceInMeters.toFixed(2) + ' м';
+    return distanceInMeters.toFixed(2) + ' ' + chrome.i18n.getMessage('unitM');
   } else {
-    return (distanceInMeters * 100).toFixed(0) + ' см';
+    return (distanceInMeters * 100).toFixed(0) + ' ' + chrome.i18n.getMessage('unitCm');
   }
 }
 
@@ -39,7 +51,7 @@ function loadStats() {
 
 // Сброс счетчика
 document.getElementById('resetBtn').addEventListener('click', () => {
-  if (confirm('Вы уверены, что хотите сбросить счетчик?')) {
+  if (confirm(chrome.i18n.getMessage('resetConfirm'))) {
     chrome.storage.local.set({
       totalClicks: 0,
       leftClicks: 0,
@@ -61,7 +73,10 @@ chrome.storage.onChanged.addListener((changes, namespace) => {
 });
 
 // Загрузка статистики при открытии popup
-document.addEventListener('DOMContentLoaded', loadStats);
+document.addEventListener('DOMContentLoaded', () => {
+  initLocalization();
+  loadStats();
+});
 
 // Автоматическое обновление статистики каждую секунду (для live-обновления дистанции)
 setInterval(loadStats, 1000);

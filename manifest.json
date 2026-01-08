@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Click Counter",
+  "name": "__MSG_extensionName__",
   "version": "1.0.0",
-  "description": "Расширение для подсчета кликов мышкой",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "ru",
   "permissions": [
-    "storage",
-    "activeTab"
+    "storage"
   ],
   "action": {
     "default_popup": "popup.html",

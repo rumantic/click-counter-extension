@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,34 +8,34 @@
 </head>
 <body>
   <div class="container">
-    <h1>🖱️ Click Counter</h1>
+    <h1 id="popup-title"></h1>
     <div class="stats">
       <div class="stat-item">
-        <span class="label">Всего кликов:</span>
+        <span class="label" id="label-total-clicks"></span>
         <span class="value" id="totalClicks">0</span>
       </div>
       <div class="stat-item">
-        <span class="label">Левая кнопка:</span>
+        <span class="label" id="label-left-button"></span>
         <span class="value" id="leftClicks">0</span>
       </div>
       <div class="stat-item">
-        <span class="label">Правая кнопка:</span>
+        <span class="label" id="label-right-button"></span>
         <span class="value" id="rightClicks">0</span>
       </div>
       <div class="stat-item">
-        <span class="label">Средняя кнопка:</span>
+        <span class="label" id="label-middle-button"></span>
         <span class="value" id="middleClicks">0</span>
       </div>
       <div class="stat-item highlight">
-        <span class="label">📏 Курсор прошел:</span>
-        <span class="value" id="distance">0 см</span>
+        <span class="label" id="label-cursor-distance"></span>
+        <span class="value" id="distance">0</span>
       </div>
       <div class="stat-item highlight">
-        <span class="label">🎡 Прокручено колесиком:</span>
-        <span class="value" id="scroll">0 см</span>
+        <span class="label" id="label-scroll-distance"></span>
+        <span class="value" id="scroll">0</span>
       </div>
     </div>
-    <button id="resetBtn" class="reset-btn">Сбросить счетчик</button>
+    <button id="resetBtn" class="reset-btn"></button>
   </div>
   <script src="popup.js"></script>
 </body>
