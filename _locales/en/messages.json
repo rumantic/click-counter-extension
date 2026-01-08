@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "Click Counter",
+    "message": "MouseStat",
     "description": "Extension name"
   },
   "extensionDescription": {
-    "message": "Count mouse clicks and track cursor distance. Monitor click statistics and mouse movement.",
+    "message": "Mouse usage statistics: track clicks, cursor distance and scroll wheel distance.",
     "description": "Extension description"
   },
   "popupTitle": {
-    "message": "🖱️ Click Counter"
+    "message": "🖱️ MouseStat"
   },
   "totalClicks": {
     "message": "Total Clicks:"
