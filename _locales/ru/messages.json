@@ -42,5 +42,80 @@
   },
   "unitKm": {
     "message": "км"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Настройки"
+  },
+  "settingsSubtitle": {
+    "message": "Управление данными и информация о расширении"
+  },
+  "dataManagementTitle": {
+    "message": "Управление данными"
+  },
+  "dataInfo": {
+    "message": "Все данные хранятся локально на вашем компьютере и никогда не передаются на внешние серверы."
+  },
+  "clearDataButton": {
+    "message": "Удалить все данные"
+  },
+  "linksTitle": {
+    "message": "Полезные ссылки"
+  },
+  "linksDescription": {
+    "message": "Исходный код расширения открыт и доступен на GitHub."
+  },
+  "developerLink": {
+    "message": "Разработчик"
+  },
+  "permissionsTitle": {
+    "message": "Разрешения"
+  },
+  "permissionsDescription": {
+    "message": "Расширение использует минимальный набор разрешений для своей работы:"
+  },
+  "permissionStorage": {
+    "message": "для локального сохранения статистики кликов и дистанции"
+  },
+  "privacyTitle": {
+    "message": "Конфиденциальность"
+  },
+  "privacyText1": {
+    "message": "MouseStat НЕ собирает, НЕ передает и НЕ хранит никакие личные данные."
+  },
+  "privacyText2": {
+    "message": "Расширение работает полностью автономно и не требует подключения к интернету."
+  },
+  "privacyText3": {
+    "message": "Вся статистика хранится только на вашем устройстве и может быть удалена в любой момент."
+  },
+  "aboutTitle": {
+    "message": "О расширении"
+  },
+  "aboutDescription": {
+    "message": "MouseStat отслеживает статистику использования мыши: количество кликов, пройденную курсором дистанцию и прокрутку колесиком."
+  },
+  "versionLabel": {
+    "message": "Версия:"
+  },
+  "authorLabel": {
+    "message": "Автор:"
+  },
+  "confirmTitle": {
+    "message": "Подтвердите действие"
+  },
+  "confirmMessage": {
+    "message": "Вы уверены, что хотите удалить все данные? Это действие нельзя отменить."
+  },
+  "confirmYes": {
+    "message": "Да, удалить"
+  },
+  "confirmNo": {
+    "message": "Отмена"
+  },
+  "dataCleared": {
+    "message": "Все данные успешно удалены!"
+  },
+  "openSettings": {
+    "message": "Настройки"
   }
 }

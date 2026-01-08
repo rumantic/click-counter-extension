@@ -8,6 +8,7 @@ function initLocalization() {
   document.getElementById('label-cursor-distance').textContent = chrome.i18n.getMessage('cursorDistance');
   document.getElementById('label-scroll-distance').textContent = chrome.i18n.getMessage('scrollDistance');
   document.getElementById('resetBtn').textContent = chrome.i18n.getMessage('resetButton');
+  document.getElementById('settingsBtn').title = chrome.i18n.getMessage('openSettings');
 }
 
 // Функция для форматирования чисел с разделителями
@@ -69,6 +70,11 @@ document.getElementById('resetBtn').addEventListener('click', () => {
       loadStats();
     });
   }
+});
+
+// Открытие настроек
+document.getElementById('settingsBtn').addEventListener('click', () => {
+  chrome.tabs.create({ url: chrome.runtime.getURL('settings.html') });
 });
 
 // Обновление статистики при изменении в storage

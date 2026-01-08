@@ -42,5 +42,80 @@
   },
   "unitKm": {
     "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Settings"
+  },
+  "settingsSubtitle": {
+    "message": "Data management and extension information"
+  },
+  "dataManagementTitle": {
+    "message": "Data Management"
+  },
+  "dataInfo": {
+    "message": "All data is stored locally on your computer and is never transmitted to external servers."
+  },
+  "clearDataButton": {
+    "message": "Clear All Data"
+  },
+  "linksTitle": {
+    "message": "Useful Links"
+  },
+  "linksDescription": {
+    "message": "The extension source code is open and available on GitHub."
+  },
+  "developerLink": {
+    "message": "Developer"
+  },
+  "permissionsTitle": {
+    "message": "Permissions"
+  },
+  "permissionsDescription": {
+    "message": "The extension uses a minimal set of permissions to function:"
+  },
+  "permissionStorage": {
+    "message": "to locally save click statistics and distance"
+  },
+  "privacyTitle": {
+    "message": "Privacy"
+  },
+  "privacyText1": {
+    "message": "MouseStat does NOT collect, transmit, or store any personal data."
+  },
+  "privacyText2": {
+    "message": "The extension works completely offline and does not require an internet connection."
+  },
+  "privacyText3": {
+    "message": "All statistics are stored only on your device and can be deleted at any time."
+  },
+  "aboutTitle": {
+    "message": "About"
+  },
+  "aboutDescription": {
+    "message": "MouseStat tracks mouse usage statistics: number of clicks, cursor distance traveled, and scroll wheel distance."
+  },
+  "versionLabel": {
+    "message": "Version:"
+  },
+  "authorLabel": {
+    "message": "Author:"
+  },
+  "confirmTitle": {
+    "message": "Confirm Action"
+  },
+  "confirmMessage": {
+    "message": "Are you sure you want to delete all data? This action cannot be undone."
+  },
+  "confirmYes": {
+    "message": "Yes, Delete"
+  },
+  "confirmNo": {
+    "message": "Cancel"
+  },
+  "dataCleared": {
+    "message": "All data successfully cleared!"
+  },
+  "openSettings": {
+    "message": "Settings"
   }
 }
