@@ -1,0 +1,1 @@
+Please replace this file with the actual source image bytes if needed. The source image was provided via chat attachments; this placeholder keeps the workflow reproducible within VS Code constraints.
