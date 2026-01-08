@@ -6,25 +6,25 @@ let accumulatedScroll = 0; // Накапливаем дистанцию прок
 
 // Функция для сохранения накопленных данных в storage
 function saveStats() {
-  const updates = {};
-  
+  // Сохраняем дистанцию курсора
   if (accumulatedDistance > 0) {
     chrome.storage.local.get(['totalDistance'], (result) => {
       const currentDistance = result.totalDistance || 0;
-      updates.totalDistance = currentDistance + accumulatedDistance;
+      chrome.storage.local.set({
+        totalDistance: currentDistance + accumulatedDistance
+      });
       accumulatedDistance = 0; // Обнуляем после сохранения
-      
-      chrome.storage.local.set(updates);
     });
   }
   
+  // Сохраняем дистанцию прокрутки
   if (accumulatedScroll > 0) {
     chrome.storage.local.get(['totalScroll'], (result) => {
       const currentScroll = result.totalScroll || 0;
-      updates.totalScroll = currentScroll + accumulatedScroll;
+      chrome.storage.local.set({
+        totalScroll: currentScroll + accumulatedScroll
+      });
       accumulatedScroll = 0; // Обнуляем после сохранения
-      
-      chrome.storage.local.set(updates);
     });
   }
 }
