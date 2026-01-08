@@ -1,26 +1,49 @@
 // Переменные для отслеживания позиции мыши и накопления дистанции
 let lastX = null;
 let lastY = null;
-let accumulatedDistance = 0; // Накапливаем дистанцию в памяти
+let accumulatedDistance = 0; // Накапливаем дистанцию движения курсора
+let accumulatedScroll = 0; // Накапливаем дистанцию прокрутки
 
-// Функция для сохранения накопленной дистанции в storage
-function saveDistance() {
+// Функция для сохранения накопленных данных в storage
+function saveStats() {
+  const updates = {};
+  
   if (accumulatedDistance > 0) {
     chrome.storage.local.get(['totalDistance'], (result) => {
       const currentDistance = result.totalDistance || 0;
-      chrome.storage.local.set({
-        totalDistance: currentDistance + accumulatedDistance
-      });
+      updates.totalDistance = currentDistance + accumulatedDistance;
       accumulatedDistance = 0; // Обнуляем после сохранения
+      
+      chrome.storage.local.set(updates);
+    });
+  }
+  
+  if (accumulatedScroll > 0) {
+    chrome.storage.local.get(['totalScroll'], (result) => {
+      const currentScroll = result.totalScroll || 0;
+      updates.totalScroll = currentScroll + accumulatedScroll;
+      accumulatedScroll = 0; // Обнуляем после сохранения
+      
+      chrome.storage.local.set(updates);
     });
   }
 }
 
-// Сохраняем дистанцию раз в 2 секунды (вместо каждого движения мыши)
-setInterval(saveDistance, 2000);
+// Сохраняем статистику раз в 2 секунды (вместо каждого события)
+setInterval(saveStats, 2000);
 
 // Сохраняем при закрытии страницы (чтобы не потерять данные)
-window.addEventListener('beforeunload', saveDistance);
+window.addEventListener('beforeunload', saveStats);
+
+// Отслеживание прокрутки колесиком мыши
+document.addEventListener('wheel', (event) => {
+  // event.deltaY - величина прокрутки по вертикали в пикселях
+  // event.deltaX - величина прокрутки по горизонтали в пикселях
+  const scrollDistance = Math.abs(event.deltaY) + Math.abs(event.deltaX);
+  
+  // Накапливаем дистанцию прокрутки в памяти
+  accumulatedScroll += scrollDistance;
+}, { passive: true });
 
 // Отслеживание движения мыши для подсчета дистанции
 document.addEventListener('mousemove', (event) => {

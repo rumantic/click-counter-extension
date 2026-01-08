@@ -1,3 +1,19 @@
+// Функция для форматирования дистанции
+function formatDistance(distanceInPixels) {
+  // Конвертируем пиксели в метры (примерно 96 пикселей = 1 дюйм = 2.54 см)
+  const distanceInMeters = (distanceInPixels / 96) * 0.0254;
+  const distanceInKm = distanceInMeters / 1000;
+  
+  // Форматируем вывод в зависимости от расстояния
+  if (distanceInKm >= 1) {
+    return distanceInKm.toFixed(2) + ' км';
+  } else if (distanceInMeters >= 1) {
+    return distanceInMeters.toFixed(2) + ' м';
+  } else {
+    return (distanceInMeters * 100).toFixed(0) + ' см';
+  }
+}
+
 // Загрузка и отображение статистики
 function loadStats() {
   chrome.storage.local.get([
@@ -5,26 +21,19 @@ function loadStats() {
     'leftClicks', 
     'rightClicks', 
     'middleClicks',
-    'totalDistance'
+    'totalDistance',
+    'totalScroll'
   ], (result) => {
     document.getElementById('totalClicks').textContent = result.totalClicks || 0;
     document.getElementById('leftClicks').textContent = result.leftClicks || 0;
     document.getElementById('rightClicks').textContent = result.rightClicks || 0;
     document.getElementById('middleClicks').textContent = result.middleClicks || 0;
     
-    // Конвертируем пиксели в метры (примерно 96 пикселей = 1 дюйм = 2.54 см)
-    const distanceInPixels = result.totalDistance || 0;
-    const distanceInMeters = (distanceInPixels / 96) * 0.0254; // переводим в метры
-    const distanceInKm = distanceInMeters / 1000;
+    // Отображаем дистанцию курсора
+    document.getElementById('distance').textContent = formatDistance(result.totalDistance || 0);
     
-    // Форматируем вывод в зависимости от расстояния
-    if (distanceInKm >= 1) {
-      document.getElementById('distance').textContent = distanceInKm.toFixed(2) + ' км';
-    } else if (distanceInMeters >= 1) {
-      document.getElementById('distance').textContent = distanceInMeters.toFixed(2) + ' м';
-    } else {
-      document.getElementById('distance').textContent = (distanceInMeters * 100).toFixed(0) + ' см';
-    }
+    // Отображаем дистанцию прокрутки
+    document.getElementById('scroll').textContent = formatDistance(result.totalScroll || 0);
   });
 }
 
@@ -36,7 +45,8 @@ document.getElementById('resetBtn').addEventListener('click', () => {
       leftClicks: 0,
       rightClicks: 0,
       middleClicks: 0,
-      totalDistance: 0
+      totalDistance: 0,
+      totalScroll: 0
     }, () => {
       loadStats();
     });
