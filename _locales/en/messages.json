@@ -124,7 +124,7 @@
   "shareTitle": {
     "message": "My MouseStat Statistics"
   },
-  "shareGenerating": {
-    "message": "Generating image..."
+  "shareError": {
+    "message": "Error generating share image"
   }
 }

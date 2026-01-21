@@ -124,7 +124,7 @@
   "shareTitle": {
     "message": "Моя статистика MouseStat"
   },
-  "shareGenerating": {
-    "message": "Генерация изображения..."
+  "shareError": {
+    "message": "Ошибка при генерации изображения"
   }
 }

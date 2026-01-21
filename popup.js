@@ -205,7 +205,7 @@ document.getElementById('shareBtn').addEventListener('click', async () => {
     shareBtn.title = originalText;
   } catch (error) {
     console.error('Share error:', error);
-    alert('Error generating share image');
+    alert(chrome.i18n.getMessage('shareError'));
     
     // Возвращаем кнопку в исходное состояние
     const shareBtn = document.getElementById('shareBtn');
