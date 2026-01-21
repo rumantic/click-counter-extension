@@ -117,5 +117,14 @@
   },
   "openSettings": {
     "message": "Settings"
+  },
+  "shareButton": {
+    "message": "Share"
+  },
+  "shareTitle": {
+    "message": "My MouseStat Statistics"
+  },
+  "shareGenerating": {
+    "message": "Generating image..."
   }
 }
