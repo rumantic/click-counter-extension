@@ -1,0 +1,100 @@
+# MouseStat - Mouse Activity Tracking Extension
+
+**[📥 Install extension from Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+---
+
+**Language versions:** **English** | [Русский](README_ru.md) | [العربية](README_ar.md) | [Tiếng Việt](README_vi.md) | [Ελληνικά](README_el.md) | [Bahasa Indonesia](README_id.md) | [Español](README_es.md) | [Italiano](README_it.md) | [简体中文](README_zh_CN.md) | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt_BR.md) | [ไทย](README_th.md) | [Türkçe](README_tr.md) | [Українська](README_uk.md) | [Français](README_fr.md) | [हिन्दी](README_hi.md) | [Čeština](README_cs.md) | [Svenska](README_sv.md) | [日本語](README_ja.md)
+
+---
+
+MouseStat is a lightweight and efficient extension for tracking your mouse activity in Chrome browser.
+
+🎯 KEY FEATURES:
+
+✅ Mouse Click Counting
+• Total count of all clicks
+• Separate statistics for left, right, and middle button
+• Precise tracking of every press
+
+📏 Cursor Movement Tracking
+• Real-time measurement of cursor travel distance
+• Automatic conversion: centimeters → meters → kilometers
+• Discover how many "kilometers" your cursor travels each day!
+
+🎡 Scroll Wheel Tracking
+• Vertical and horizontal scrolling measurement
+• Separate statistics for scrolled distance
+• Be amazed by how much you scroll while reading articles!
+
+⚡ ADVANTAGES:
+
+🚀 Minimal Browser Load
+• Optimized algorithm with data batching
+• Does not slow down web pages
+• Data recorded once every 2 seconds instead of hundreds of times per second
+
+🔒 Complete Privacy
+• ALL data stored ONLY locally on your device
+• NO data transmitted to external servers
+• NO personal information collected
+• Open source on GitHub
+
+🌍 Multilingual
+• Full support for Russian and English languages
+• Automatic browser language detection
+
+🎨 User-Friendly Interface
+• Beautiful design with gradient theme
+• Live statistics updates every second
+• Number formatting with thousand separators for easy reading
+• Settings page with data deletion option
+
+💡 INTERESTING FACTS:
+
+• Average user "travels" 3-5 km with cursor per day
+• Active reading can result in 5-10 km of scrolling per day
+• Annual total distance can exceed 3000 km - that's more than the distance from Moscow to Sochi!
+
+🔧 HOW TO USE:
+
+1. Install the extension
+2. Continue working as usual
+3. Click the MouseStat icon to see your statistics
+4. Be amazed by the results!
+
+📊 STATISTICS INCLUDE:
+
+• Total clicks
+• Left mouse button clicks
+• Right mouse button clicks
+• Middle button clicks (wheel)
+• Distance traveled by cursor
+• Scroll wheel distance
+
+🛠️ TECHNICAL FEATURES:
+
+• Uses Chrome Storage API for local storage
+• Passive event listeners for maximum performance
+• Update batching to minimize disk writes
+• Automatic saving on tab close
+
+🔗 OPEN SOURCE:
+
+Extension source code is available on GitHub: github.com/rumantic/click-counter-extension
+You can review the code, contribute improvements, or report issues.
+
+🎁 COMPLETELY FREE:
+
+• No ads
+• No hidden fees
+• No data collection
+• No feature limitations
+
+Try MouseStat and find out how active your mouse is!
+
+---
+
+**[📥 Install extension from Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+**Language versions:** **English** | [Русский](README_ru.md) | [العربية](README_ar.md) | [Tiếng Việt](README_vi.md) | [Ελληνικά](README_el.md) | [Bahasa Indonesia](README_id.md) | [Español](README_es.md) | [Italiano](README_it.md) | [简体中文](README_zh_CN.md) | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt_BR.md) | [ไทย](README_th.md) | [Türkçe](README_tr.md) | [Українська](README_uk.md) | [Français](README_fr.md) | [हिन्दी](README_hi.md) | [Čeština](README_cs.md) | [Svenska](README_sv.md) | [日本語](README_ja.md)

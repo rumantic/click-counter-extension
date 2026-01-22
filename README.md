@@ -1,5 +1,15 @@
 # MouseStat - Расширение для Chrome
 
+**[📥 Установить расширение в Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+---
+
+## 🌍 Языковые версии документации / Language Versions
+
+**[English](README_en.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[Tiếng Việt](README_vi.md)** | **[Ελληνικά](README_el.md)** | **[Bahasa Indonesia](README_id.md)** | **[Español](README_es.md)** | **[Italiano](README_it.md)** | **[简体中文](README_zh_CN.md)** | **[한국어](README_ko.md)** | **[Deutsch](README_de.md)** | **[Nederlands](README_nl.md)** | **[Polski](README_pl.md)** | **[Português (Brasil)](README_pt_BR.md)** | **[ไทย](README_th.md)** | **[Türkçe](README_tr.md)** | **[Українська](README_uk.md)** | **[Français](README_fr.md)** | **[हिन्दी](README_hi.md)** | **[Čeština](README_cs.md)** | **[Svenska](README_sv.md)** | **[日本語](README_ja.md)**
+
+---
+
 Расширение для подсчета кликов мышкой пользователя и отслеживания пройденного курсором расстояния в браузере Chrome.
 
 ## Возможности
@@ -107,3 +117,11 @@ window.addEventListener('beforeunload', saveDistance);
 - **Прокрутка колесиком** может составлять **5-10 км в день** при активном чтении!
 - За год суммарная дистанция (курсор + прокрутка) может превысить **3000 км**!
 - Это больше, чем расстояние от Москвы до Сочи! 🚀
+
+---
+
+**[📥 Установить расширение в Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+## 🌍 Языковые версии / Language Versions
+
+**[English](README_en.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[Tiếng Việt](README_vi.md)** | **[Ελληνικά](README_el.md)** | **[Bahasa Indonesia](README_id.md)** | **[Español](README_es.md)** | **[Italiano](README_it.md)** | **[简体中文](README_zh_CN.md)** | **[한국어](README_ko.md)** | **[Deutsch](README_de.md)** | **[Nederlands](README_nl.md)** | **[Polski](README_pl.md)** | **[Português (Brasil)](README_pt_BR.md)** | **[ไทย](README_th.md)** | **[Türkçe](README_tr.md)** | **[Українська](README_uk.md)** | **[Français](README_fr.md)** | **[हिन्दी](README_hi.md)** | **[Čeština](README_cs.md)** | **[Svenska](README_sv.md)** | **[日本語](README_ja.md)**

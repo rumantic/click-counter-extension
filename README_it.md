@@ -1,0 +1,100 @@
+# MouseStat - Estensione per il Monitoraggio dell'Attività del Mouse
+
+**[📥 Installa l'estensione dal Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+---
+
+**Versioni linguistiche:** [English](README_en.md) | [Русский](README_ru.md) | [العربية](README_ar.md) | [Tiếng Việt](README_vi.md) | [Ελληνικά](README_el.md) | [Bahasa Indonesia](README_id.md) | [Español](README_es.md) | **Italiano** | [简体中文](README_zh_CN.md) | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt_BR.md) | [ไทย](README_th.md) | [Türkçe](README_tr.md) | [Українська](README_uk.md) | [Français](README_fr.md) | [हिन्दी](README_hi.md) | [Čeština](README_cs.md) | [Svenska](README_sv.md) | [日本語](README_ja.md)
+
+---
+
+MouseStat è un'estensione leggera ed efficiente per monitorare l'attività del mouse nel browser Chrome.
+
+🎯 CARATTERISTICHE PRINCIPALI:
+
+✅ Conteggio Clic del Mouse
+• Conteggio totale di tutti i clic
+• Statistiche separate per pulsante sinistro, destro e centrale
+• Tracciamento preciso di ogni pressione
+
+📏 Tracciamento Movimento del Cursore
+• Misurazione della distanza percorsa dal cursore in tempo reale
+• Conversione automatica: centimetri → metri → chilometri
+• Scopri quanti "chilometri" percorre il tuo cursore ogni giorno!
+
+🎡 Tracciamento Rotella di Scorrimento
+• Misurazione dello scorrimento verticale e orizzontale
+• Statistiche separate per la distanza di scorrimento
+• Rimarrai sorpreso da quanto scorri leggendo gli articoli!
+
+⚡ VANTAGGI:
+
+🚀 Carico Minimo sul Browser
+• Algoritmo ottimizzato con raggruppamento dei dati
+• Non rallenta le pagine web
+• Dati registrati una volta ogni 2 secondi invece di centinaia di volte al secondo
+
+🔒 Privacy Completa
+• TUTTI i dati sono memorizzati SOLO localmente sul tuo dispositivo
+• NON vengono trasmessi dati a server esterni
+• NON vengono raccolte informazioni personali
+• Codice open source su GitHub
+
+🌍 Multilingue
+• Supporto completo per le lingue russa e inglese
+• Rilevamento automatico della lingua del browser
+
+🎨 Interfaccia User-Friendly
+• Design accattivante con tema sfumato
+• Aggiornamenti statistiche in tempo reale ogni secondo
+• Formattazione numeri con separatori delle migliaia per facile lettura
+• Pagina impostazioni con opzione di eliminazione dati
+
+💡 FATTI INTERESSANTI:
+
+• L'utente medio "percorre" 3-5 km con il cursore al giorno
+• La lettura attiva può portare a 5-10 km di scorrimento al giorno
+• La distanza totale annuale può superare i 3000 km - più della distanza da Mosca a Sochi!
+
+🔧 COME USARE:
+
+1. Installa l'estensione
+2. Continua a lavorare come al solito
+3. Clicca sull'icona MouseStat per vedere le tue statistiche
+4. Rimani sorpreso dai risultati!
+
+📊 LE STATISTICHE INCLUDONO:
+
+• Totale clic
+• Clic pulsante sinistro del mouse
+• Clic pulsante destro del mouse
+• Clic pulsante centrale (rotella)
+• Distanza percorsa dal cursore
+• Distanza della rotella di scorrimento
+
+🛠️ CARATTERISTICHE TECNICHE:
+
+• Utilizza Chrome Storage API per l'archiviazione locale
+• Event listener passivi per massime prestazioni
+• Raggruppamento aggiornamenti per minimizzare scritture su disco
+• Salvataggio automatico alla chiusura della scheda
+
+🔗 OPEN SOURCE:
+
+Il codice sorgente dell'estensione è disponibile su GitHub: github.com/rumantic/click-counter-extension
+Puoi rivedere il codice, contribuire con miglioramenti o segnalare problemi.
+
+🎁 COMPLETAMENTE GRATUITO:
+
+• Senza pubblicità
+• Senza costi nascosti
+• Senza raccolta dati
+• Senza limitazioni delle funzionalità
+
+Prova MouseStat e scopri quanto è attivo il tuo mouse!
+
+---
+
+**[📥 Installa l'estensione dal Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
+
+**Versioni linguistiche:** [English](README_en.md) | [Русский](README_ru.md) | [العربية](README_ar.md) | [Tiếng Việt](README_vi.md) | [Ελληνικά](README_el.md) | [Bahasa Indonesia](README_id.md) | [Español](README_es.md) | **Italiano** | [简体中文](README_zh_CN.md) | [한국어](README_ko.md) | [Deutsch](README_de.md) | [Nederlands](README_nl.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt_BR.md) | [ไทย](README_th.md) | [Türkçe](README_tr.md) | [Українська](README_uk.md) | [Français](README_fr.md) | [हिन्दी](README_hi.md) | [Čeština](README_cs.md) | [Svenska](README_sv.md) | [日本語](README_ja.md)
