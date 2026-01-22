@@ -1,4 +1,4 @@
-# MouseStat - Расширение для отслеживания активности мыши
+﻿# MouseStat - Расширение для отслеживания активности мыши
 
 **[📥 Установить расширение в Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

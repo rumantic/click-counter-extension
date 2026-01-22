@@ -1,4 +1,4 @@
-# MouseStat - Förlängning för Musaktivitetsspårning
+﻿# MouseStat - Förlängning för Musaktivitetsspårning
 
 **[📥 Installera förlängning från Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

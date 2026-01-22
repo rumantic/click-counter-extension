@@ -1,4 +1,4 @@
-# MouseStat - Mouse Activity Tracking Extension
+﻿# MouseStat - Mouse Activity Tracking Extension
 
 **[📥 Install extension from Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

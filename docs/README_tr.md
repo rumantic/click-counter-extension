@@ -1,4 +1,4 @@
-# MouseStat - Fare Aktivitesi Takip Uzantısı
+﻿# MouseStat - Fare Aktivitesi Takip Uzantısı
 
 **[📥 Chrome Web Store'dan uzantıyı yükleyin](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

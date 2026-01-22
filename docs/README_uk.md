@@ -1,4 +1,4 @@
-# MouseStat - Розширення для Відстеження Активності Миші
+﻿# MouseStat - Розширення для Відстеження Активності Миші
 
 **[📥 Встановити розширення з Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

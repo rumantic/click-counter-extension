@@ -1,4 +1,4 @@
-# MouseStat - Ekstensi Pelacakan Aktivitas Mouse
+﻿# MouseStat - Ekstensi Pelacakan Aktivitas Mouse
 
 **[📥 Instal ekstensi dari Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

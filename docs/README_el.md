@@ -1,4 +1,4 @@
-# MouseStat - Επέκταση Παρακολούθησης Δραστηριότητας Ποντικιού
+﻿# MouseStat - Επέκταση Παρακολούθησης Δραστηριότητας Ποντικιού
 
 **[📥 Εγκατάσταση επέκτασης από το Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

@@ -1,4 +1,4 @@
-# MouseStat - ส่วนขยายติดตามกิจกรรมเมาส์
+﻿# MouseStat - ส่วนขยายติดตามกิจกรรมเมาส์
 
 **[📥 ติดตั้งส่วนขยายจาก Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

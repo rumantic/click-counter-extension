@@ -1,4 +1,4 @@
-# MouseStat - Muisactiviteit Tracking Extensie
+﻿# MouseStat - Muisactiviteit Tracking Extensie
 
 **[📥 Installeer extensie vanuit Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

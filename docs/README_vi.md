@@ -1,4 +1,4 @@
-# MouseStat - Tiện ích theo dõi hoạt động chuột
+﻿# MouseStat - Tiện ích theo dõi hoạt động chuột
 
 **[📥 Cài đặt tiện ích từ Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

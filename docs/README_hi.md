@@ -1,4 +1,4 @@
-# MouseStat - माउस गतिविधि ट्रैकिंग एक्सटेंशन
+﻿# MouseStat - माउस गतिविधि ट्रैकिंग एक्सटेंशन
 
 **[📥 Chrome Web Store से एक्सटेंशन इंस्टॉल करें](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

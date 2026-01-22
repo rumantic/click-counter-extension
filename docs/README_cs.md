@@ -1,4 +1,4 @@
-# MouseStat - Rozšíření pro Sledování Aktivity Myši
+﻿# MouseStat - Rozšíření pro Sledování Aktivity Myši
 
 **[📥 Nainstalovat rozšíření z Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

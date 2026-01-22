@@ -1,4 +1,4 @@
-# MouseStat - 鼠标活动跟踪扩展
+﻿# MouseStat - 鼠标活动跟踪扩展
 
 **[📥 从 Chrome 网上应用店安装扩展](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

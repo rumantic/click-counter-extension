@@ -1,4 +1,4 @@
-# MouseStat - 마우스 활동 추적 확장 프로그램
+﻿# MouseStat - 마우스 활동 추적 확장 프로그램
 
 **[📥 Chrome 웹 스토어에서 확장 프로그램 설치](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

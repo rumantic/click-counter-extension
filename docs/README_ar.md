@@ -1,4 +1,4 @@
-# MouseStat - ملحق تتبع نشاط الماوس
+﻿# MouseStat - ملحق تتبع نشاط الماوس
 
 **[📥 تثبيت الملحق من متجر Chrome الإلكتروني](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

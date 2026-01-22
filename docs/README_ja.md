@@ -1,4 +1,4 @@
-# MouseStat - マウス活動追跡拡張機能
+﻿# MouseStat - マウス活動追跡拡張機能
 
 **[📥 Chrome ウェブストアから拡張機能をインストール](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 

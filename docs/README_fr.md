@@ -1,4 +1,4 @@
-# MouseStat - Extension de Suivi d'Activité de la Souris
+﻿# MouseStat - Extension de Suivi d'Activité de la Souris
 
 **[📥 Installer l'extension depuis Chrome Web Store](https://chromewebstore.google.com/detail/mousestat/gbikpfclbjckpkmmifjfjddifhgokkbc)**
 
