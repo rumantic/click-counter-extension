@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "एक्सटेंशन का नाम"
+  },
+  "extensionDescription": {
+    "message": "माउस उपयोग सांख्यिकी: क्लिक, कर्सर दूरी और स्क्रॉल व्हील दूरी को ट्रैक करें।",
+    "description": "एक्सटेंशन विवरण"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "कुल क्लिक:"
+  },
+  "leftButton": {
+    "message": "बायां बटन:"
+  },
+  "rightButton": {
+    "message": "दायां बटन:"
+  },
+  "middleButton": {
+    "message": "मध्य बटन:"
+  },
+  "cursorDistance": {
+    "message": "📏 कर्सर यात्रा:"
+  },
+  "scrollDistance": {
+    "message": "🎡 स्क्रॉल दूरी:"
+  },
+  "resetButton": {
+    "message": "काउंटर रीसेट करें"
+  },
+  "resetConfirm": {
+    "message": "क्या आप वाकई काउंटर रीसेट करना चाहते हैं?"
+  },
+  "unitCm": {
+    "message": "सेमी"
+  },
+  "unitM": {
+    "message": "मी"
+  },
+  "unitKm": {
+    "message": "किमी"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - सेटिंग्स"
+  },
+  "settingsSubtitle": {
+    "message": "डेटा प्रबंधन और एक्सटेंशन जानकारी"
+  },
+  "dataManagementTitle": {
+    "message": "डेटा प्रबंधन"
+  },
+  "dataInfo": {
+    "message": "सभी डेटा आपके कंप्यूटर पर स्थानीय रूप से संग्रहीत है और कभी भी बाहरी सर्वर पर प्रसारित नहीं किया जाता है।"
+  },
+  "clearDataButton": {
+    "message": "सभी डेटा साफ़ करें"
+  },
+  "linksTitle": {
+    "message": "उपयोगी लिंक"
+  },
+  "linksDescription": {
+    "message": "एक्सटेंशन सोर्स कोड खुला है और GitHub पर उपलब्ध है।"
+  },
+  "developerLink": {
+    "message": "डेवलपर"
+  },
+  "permissionsTitle": {
+    "message": "अनुमतियाँ"
+  },
+  "permissionsDescription": {
+    "message": "एक्सटेंशन काम करने के लिए न्यूनतम अनुमतियों का उपयोग करता है:"
+  },
+  "permissionStorage": {
+    "message": "क्लिक सांख्यिकी और दूरी को स्थानीय रूप से सहेजने के लिए"
+  },
+  "privacyTitle": {
+    "message": "गोपनीयता"
+  },
+  "privacyText1": {
+    "message": "MouseStat किसी भी व्यक्तिगत डेटा को एकत्र, प्रसारित या संग्रहीत नहीं करता है।"
+  },
+  "privacyText2": {
+    "message": "एक्सटेंशन पूरी तरह से ऑफ़लाइन काम करता है और इंटरनेट कनेक्शन की आवश्यकता नहीं है।"
+  },
+  "privacyText3": {
+    "message": "सभी सांख्यिकी केवल आपके डिवाइस पर संग्रहीत हैं और किसी भी समय हटाई जा सकती हैं।"
+  },
+  "aboutTitle": {
+    "message": "के बारे में"
+  },
+  "aboutDescription": {
+    "message": "MouseStat माउस उपयोग सांख्यिकी को ट्रैक करता है: क्लिक की संख्या, कर्सर द्वारा तय की गई दूरी और स्क्रॉल व्हील दूरी।"
+  },
+  "versionLabel": {
+    "message": "संस्करण:"
+  },
+  "authorLabel": {
+    "message": "लेखक:"
+  },
+  "yearsLabel": {
+    "message": "वर्ष:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub रिपॉजिटरी"
+  },
+  "reportIssueLink": {
+    "message": "समस्या की रिपोर्ट करें"
+  },
+  "licenseLabel": {
+    "message": "लाइसेंस:"
+  },
+  "licenseLink": {
+    "message": "MIT लाइसेंस"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ सेटिंग्स"
+  },
+  "backToMainButton": {
+    "message": "← मुख्य पृष्ठ पर वापस"
+  }
+}

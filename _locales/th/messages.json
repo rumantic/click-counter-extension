@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "ชื่อส่วนขยาย"
+  },
+  "extensionDescription": {
+    "message": "สถิติการใช้เมาส์: ติดตามการคลิก ระยะทางเคอร์เซอร์ และระยะทางการเลื่อนล้อหมุน",
+    "description": "คำอธิบายส่วนขยาย"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "การคลิกทั้งหมด:"
+  },
+  "leftButton": {
+    "message": "ปุ่มซ้าย:"
+  },
+  "rightButton": {
+    "message": "ปุ่มขวา:"
+  },
+  "middleButton": {
+    "message": "ปุ่มกลาง:"
+  },
+  "cursorDistance": {
+    "message": "📏 ระยะทางที่เคอร์เซอร์เคลื่อนที่:"
+  },
+  "scrollDistance": {
+    "message": "🎡 ระยะทางการเลื่อน:"
+  },
+  "resetButton": {
+    "message": "รีเซ็ตตัวนับ"
+  },
+  "resetConfirm": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตตัวนับ?"
+  },
+  "unitCm": {
+    "message": "ซม."
+  },
+  "unitM": {
+    "message": "ม."
+  },
+  "unitKm": {
+    "message": "กม."
+  },
+  "settingsTitle": {
+    "message": "MouseStat - การตั้งค่า"
+  },
+  "settingsSubtitle": {
+    "message": "การจัดการข้อมูลและข้อมูลส่วนขยาย"
+  },
+  "dataManagementTitle": {
+    "message": "การจัดการข้อมูล"
+  },
+  "dataInfo": {
+    "message": "ข้อมูลทั้งหมดจะถูกเก็บไว้ในคอมพิวเตอร์ของคุณและไม่เคยถูกส่งไปยังเซิร์ฟเวอร์ภายนอก"
+  },
+  "clearDataButton": {
+    "message": "ล้างข้อมูลทั้งหมด"
+  },
+  "linksTitle": {
+    "message": "ลิงก์ที่เป็นประโยชน์"
+  },
+  "linksDescription": {
+    "message": "โค้ดต้นฉบับของส่วนขยายเป็นแบบเปิดและพร้อมใช้งานบน GitHub"
+  },
+  "developerLink": {
+    "message": "ผู้พัฒนา"
+  },
+  "permissionsTitle": {
+    "message": "การอนุญาต"
+  },
+  "permissionsDescription": {
+    "message": "ส่วนขยายใช้ชุดการอนุญาตขั้นต่ำในการทำงาน:"
+  },
+  "permissionStorage": {
+    "message": "เพื่อบันทึกสถิติการคลิกและระยะทางในเครื่อง"
+  },
+  "privacyTitle": {
+    "message": "ความเป็นส่วนตัว"
+  },
+  "privacyText1": {
+    "message": "MouseStat ไม่รวบรวม ไม่ส่ง และไม่เก็บข้อมูลส่วนบุคคลใดๆ"
+  },
+  "privacyText2": {
+    "message": "ส่วนขยายทำงานแบบออฟไลน์ทั้งหมดและไม่ต้องการการเชื่อมต่ออินเทอร์เน็ต"
+  },
+  "privacyText3": {
+    "message": "สถิติทั้งหมดจะถูกเก็บไว้ในอุปกรณ์ของคุณเท่านั้นและสามารถลบได้ตลอดเวลา"
+  },
+  "aboutTitle": {
+    "message": "เกี่ยวกับ"
+  },
+  "aboutDescription": {
+    "message": "MouseStat ติดตามสถิติการใช้เมาส์: จำนวนการคลิก ระยะทางที่เคอร์เซอร์เคลื่อนที่ และระยะทางการเลื่อนล้อหมุน"
+  },
+  "versionLabel": {
+    "message": "เวอร์ชัน:"
+  },
+  "authorLabel": {
+    "message": "ผู้เขียน:"
+  },
+  "yearsLabel": {
+    "message": "ปี:"
+  },
+  "githubRepoLink": {
+    "message": "ที่เก็บ GitHub"
+  },
+  "reportIssueLink": {
+    "message": "รายงานปัญหา"
+  },
+  "licenseLabel": {
+    "message": "ใบอนุญาต:"
+  },
+  "licenseLink": {
+    "message": "ใบอนุญาต MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ การตั้งค่า"
+  },
+  "backToMainButton": {
+    "message": "← กลับไปหน้าหลัก"
+  }
+}

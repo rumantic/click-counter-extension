@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Nama ekstensi"
+  },
+  "extensionDescription": {
+    "message": "Statistik penggunaan mouse: lacak klik, jarak kursor, dan jarak roda gulir.",
+    "description": "Deskripsi ekstensi"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Total Klik:"
+  },
+  "leftButton": {
+    "message": "Tombol Kiri:"
+  },
+  "rightButton": {
+    "message": "Tombol Kanan:"
+  },
+  "middleButton": {
+    "message": "Tombol Tengah:"
+  },
+  "cursorDistance": {
+    "message": "📏 Jarak Kursor:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Jarak Gulir:"
+  },
+  "resetButton": {
+    "message": "Reset Penghitung"
+  },
+  "resetConfirm": {
+    "message": "Apakah Anda yakin ingin mereset penghitung?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Pengaturan"
+  },
+  "settingsSubtitle": {
+    "message": "Manajemen data dan informasi ekstensi"
+  },
+  "dataManagementTitle": {
+    "message": "Manajemen Data"
+  },
+  "dataInfo": {
+    "message": "Semua data disimpan secara lokal di komputer Anda dan tidak pernah dikirim ke server eksternal."
+  },
+  "clearDataButton": {
+    "message": "Hapus Semua Data"
+  },
+  "linksTitle": {
+    "message": "Tautan Berguna"
+  },
+  "linksDescription": {
+    "message": "Kode sumber ekstensi terbuka dan tersedia di GitHub."
+  },
+  "developerLink": {
+    "message": "Pengembang"
+  },
+  "permissionsTitle": {
+    "message": "Izin"
+  },
+  "permissionsDescription": {
+    "message": "Ekstensi menggunakan set izin minimal untuk berfungsi:"
+  },
+  "permissionStorage": {
+    "message": "untuk menyimpan statistik klik dan jarak secara lokal"
+  },
+  "privacyTitle": {
+    "message": "Privasi"
+  },
+  "privacyText1": {
+    "message": "MouseStat TIDAK mengumpulkan, mengirim, atau menyimpan data pribadi apa pun."
+  },
+  "privacyText2": {
+    "message": "Ekstensi bekerja sepenuhnya offline dan tidak memerlukan koneksi internet."
+  },
+  "privacyText3": {
+    "message": "Semua statistik hanya disimpan di perangkat Anda dan dapat dihapus kapan saja."
+  },
+  "aboutTitle": {
+    "message": "Tentang"
+  },
+  "aboutDescription": {
+    "message": "MouseStat melacak statistik penggunaan mouse: jumlah klik, jarak yang ditempuh kursor, dan jarak roda gulir."
+  },
+  "versionLabel": {
+    "message": "Versi:"
+  },
+  "authorLabel": {
+    "message": "Penulis:"
+  },
+  "yearsLabel": {
+    "message": "Tahun:"
+  },
+  "githubRepoLink": {
+    "message": "Repositori GitHub"
+  },
+  "reportIssueLink": {
+    "message": "Laporkan Masalah"
+  },
+  "licenseLabel": {
+    "message": "Lisensi:"
+  },
+  "licenseLink": {
+    "message": "Lisensi MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Pengaturan"
+  },
+  "backToMainButton": {
+    "message": "← Kembali ke Utama"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Statistiques d'utilisation de la souris : suivi des clics, distance du curseur et distance de la molette de défilement.",
+    "description": "Description de l'extension"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Clics totaux :"
+  },
+  "leftButton": {
+    "message": "Bouton gauche :"
+  },
+  "rightButton": {
+    "message": "Bouton droit :"
+  },
+  "middleButton": {
+    "message": "Bouton du milieu :"
+  },
+  "cursorDistance": {
+    "message": "📏 Distance parcourue :"
+  },
+  "scrollDistance": {
+    "message": "🎡 Distance de défilement :"
+  },
+  "resetButton": {
+    "message": "Réinitialiser le compteur"
+  },
+  "resetConfirm": {
+    "message": "Êtes-vous sûr de vouloir réinitialiser le compteur ?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Paramètres"
+  },
+  "settingsSubtitle": {
+    "message": "Gestion des données et informations sur l'extension"
+  },
+  "dataManagementTitle": {
+    "message": "Gestion des données"
+  },
+  "dataInfo": {
+    "message": "Toutes les données sont stockées localement sur votre ordinateur et ne sont jamais transmises à des serveurs externes."
+  },
+  "clearDataButton": {
+    "message": "Effacer toutes les données"
+  },
+  "linksTitle": {
+    "message": "Liens utiles"
+  },
+  "linksDescription": {
+    "message": "Le code source de l'extension est ouvert et disponible sur GitHub."
+  },
+  "developerLink": {
+    "message": "Développeur"
+  },
+  "permissionsTitle": {
+    "message": "Autorisations"
+  },
+  "permissionsDescription": {
+    "message": "L'extension utilise un ensemble minimal d'autorisations pour fonctionner :"
+  },
+  "permissionStorage": {
+    "message": "pour enregistrer localement les statistiques de clics et de distance"
+  },
+  "privacyTitle": {
+    "message": "Confidentialité"
+  },
+  "privacyText1": {
+    "message": "MouseStat NE collecte PAS, NE transmet PAS et NE stocke PAS de données personnelles."
+  },
+  "privacyText2": {
+    "message": "L'extension fonctionne complètement hors ligne et ne nécessite pas de connexion Internet."
+  },
+  "privacyText3": {
+    "message": "Toutes les statistiques sont stockées uniquement sur votre appareil et peuvent être supprimées à tout moment."
+  },
+  "aboutTitle": {
+    "message": "À propos"
+  },
+  "aboutDescription": {
+    "message": "MouseStat suit les statistiques d'utilisation de la souris : nombre de clics, distance parcourue par le curseur et distance de défilement de la molette."
+  },
+  "versionLabel": {
+    "message": "Version :"
+  },
+  "authorLabel": {
+    "message": "Auteur :"
+  },
+  "yearsLabel": {
+    "message": "Année :"
+  },
+  "githubRepoLink": {
+    "message": "Dépôt GitHub"
+  },
+  "reportIssueLink": {
+    "message": "Signaler un problème"
+  },
+  "licenseLabel": {
+    "message": "Licence :"
+  },
+  "licenseLink": {
+    "message": "Licence MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Paramètres"
+  },
+  "backToMainButton": {
+    "message": "← Retour à l'accueil"
+  }
+}

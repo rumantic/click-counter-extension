@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Uzantı adı"
+  },
+  "extensionDescription": {
+    "message": "Fare kullanım istatistikleri: tıklamalar, imleç mesafesi ve kaydırma tekerleği mesafesini takip edin.",
+    "description": "Uzantı açıklaması"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Toplam Tıklama:"
+  },
+  "leftButton": {
+    "message": "Sol Düğme:"
+  },
+  "rightButton": {
+    "message": "Sağ Düğme:"
+  },
+  "middleButton": {
+    "message": "Orta Düğme:"
+  },
+  "cursorDistance": {
+    "message": "📏 Katedilen Mesafe:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Kaydırma Mesafesi:"
+  },
+  "resetButton": {
+    "message": "Sayacı Sıfırla"
+  },
+  "resetConfirm": {
+    "message": "Sayacı sıfırlamak istediğinizden emin misiniz?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Ayarlar"
+  },
+  "settingsSubtitle": {
+    "message": "Veri yönetimi ve uzantı bilgileri"
+  },
+  "dataManagementTitle": {
+    "message": "Veri Yönetimi"
+  },
+  "dataInfo": {
+    "message": "Tüm veriler bilgisayarınızda yerel olarak saklanır ve asla harici sunuculara iletilmez."
+  },
+  "clearDataButton": {
+    "message": "Tüm Verileri Temizle"
+  },
+  "linksTitle": {
+    "message": "Yararlı Bağlantılar"
+  },
+  "linksDescription": {
+    "message": "Uzantı kaynak kodu açıktır ve GitHub'da mevcuttur."
+  },
+  "developerLink": {
+    "message": "Geliştirici"
+  },
+  "permissionsTitle": {
+    "message": "İzinler"
+  },
+  "permissionsDescription": {
+    "message": "Uzantı çalışmak için minimum izin setini kullanır:"
+  },
+  "permissionStorage": {
+    "message": "tıklama istatistiklerini ve mesafeyi yerel olarak kaydetmek için"
+  },
+  "privacyTitle": {
+    "message": "Gizlilik"
+  },
+  "privacyText1": {
+    "message": "MouseStat kişisel veri toplamaz, iletmez veya saklamaz."
+  },
+  "privacyText2": {
+    "message": "Uzantı tamamen çevrimdışı çalışır ve internet bağlantısı gerektirmez."
+  },
+  "privacyText3": {
+    "message": "Tüm istatistikler yalnızca cihazınızda saklanır ve her zaman silinebilir."
+  },
+  "aboutTitle": {
+    "message": "Hakkında"
+  },
+  "aboutDescription": {
+    "message": "MouseStat fare kullanım istatistiklerini takip eder: tıklama sayısı, imleç tarafından katedilen mesafe ve kaydırma tekerleği mesafesi."
+  },
+  "versionLabel": {
+    "message": "Sürüm:"
+  },
+  "authorLabel": {
+    "message": "Yazar:"
+  },
+  "yearsLabel": {
+    "message": "Yıl:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub Deposu"
+  },
+  "reportIssueLink": {
+    "message": "Sorun Bildir"
+  },
+  "licenseLabel": {
+    "message": "Lisans:"
+  },
+  "licenseLink": {
+    "message": "MIT Lisansı"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Ayarlar"
+  },
+  "backToMainButton": {
+    "message": "← Ana Sayfaya Dön"
+  }
+}

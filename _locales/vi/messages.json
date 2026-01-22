@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Tên tiện ích mở rộng"
+  },
+  "extensionDescription": {
+    "message": "Thống kê sử dụng chuột: theo dõi số lần nhấp chuột, khoảng cách di chuyển con trỏ và khoảng cách cuộn bánh xe.",
+    "description": "Mô tả tiện ích mở rộng"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Tổng số lần nhấp:"
+  },
+  "leftButton": {
+    "message": "Nút trái:"
+  },
+  "rightButton": {
+    "message": "Nút phải:"
+  },
+  "middleButton": {
+    "message": "Nút giữa:"
+  },
+  "cursorDistance": {
+    "message": "📏 Khoảng cách di chuyển:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Khoảng cách cuộn:"
+  },
+  "resetButton": {
+    "message": "Đặt lại bộ đếm"
+  },
+  "resetConfirm": {
+    "message": "Bạn có chắc chắn muốn đặt lại bộ đếm không?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Cài đặt"
+  },
+  "settingsSubtitle": {
+    "message": "Quản lý dữ liệu và thông tin tiện ích mở rộng"
+  },
+  "dataManagementTitle": {
+    "message": "Quản lý dữ liệu"
+  },
+  "dataInfo": {
+    "message": "Tất cả dữ liệu được lưu trữ cục bộ trên máy tính của bạn và không bao giờ được truyền đến máy chủ bên ngoài."
+  },
+  "clearDataButton": {
+    "message": "Xóa tất cả dữ liệu"
+  },
+  "linksTitle": {
+    "message": "Liên kết hữu ích"
+  },
+  "linksDescription": {
+    "message": "Mã nguồn của tiện ích mở rộng được mở và có sẵn trên GitHub."
+  },
+  "developerLink": {
+    "message": "Nhà phát triển"
+  },
+  "permissionsTitle": {
+    "message": "Quyền"
+  },
+  "permissionsDescription": {
+    "message": "Tiện ích mở rộng sử dụng một bộ quyền tối thiểu để hoạt động:"
+  },
+  "permissionStorage": {
+    "message": "để lưu thống kê nhấp chuột và khoảng cách cục bộ"
+  },
+  "privacyTitle": {
+    "message": "Quyền riêng tư"
+  },
+  "privacyText1": {
+    "message": "MouseStat KHÔNG thu thập, truyền hoặc lưu trữ bất kỳ dữ liệu cá nhân nào."
+  },
+  "privacyText2": {
+    "message": "Tiện ích mở rộng hoạt động hoàn toàn ngoại tuyến và không yêu cầu kết nối internet."
+  },
+  "privacyText3": {
+    "message": "Tất cả thống kê chỉ được lưu trữ trên thiết bị của bạn và có thể được xóa bất cứ lúc nào."
+  },
+  "aboutTitle": {
+    "message": "Giới thiệu"
+  },
+  "aboutDescription": {
+    "message": "MouseStat theo dõi thống kê sử dụng chuột: số lần nhấp chuột, khoảng cách di chuyển con trỏ và khoảng cách cuộn bánh xe."
+  },
+  "versionLabel": {
+    "message": "Phiên bản:"
+  },
+  "authorLabel": {
+    "message": "Tác giả:"
+  },
+  "yearsLabel": {
+    "message": "Năm:"
+  },
+  "githubRepoLink": {
+    "message": "Kho GitHub"
+  },
+  "reportIssueLink": {
+    "message": "Báo cáo vấn đề"
+  },
+  "licenseLabel": {
+    "message": "Giấy phép:"
+  },
+  "licenseLink": {
+    "message": "Giấy phép MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Cài đặt"
+  },
+  "backToMainButton": {
+    "message": "← Quay lại trang chính"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Nome dell'estensione"
+  },
+  "extensionDescription": {
+    "message": "Statistiche di utilizzo del mouse: traccia i clic, la distanza del cursore e la distanza della rotellina di scorrimento.",
+    "description": "Descrizione dell'estensione"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Clic totali:"
+  },
+  "leftButton": {
+    "message": "Pulsante sinistro:"
+  },
+  "rightButton": {
+    "message": "Pulsante destro:"
+  },
+  "middleButton": {
+    "message": "Pulsante centrale:"
+  },
+  "cursorDistance": {
+    "message": "📏 Distanza percorsa:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Distanza di scorrimento:"
+  },
+  "resetButton": {
+    "message": "Reimposta contatore"
+  },
+  "resetConfirm": {
+    "message": "Sei sicuro di voler reimpostare il contatore?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Impostazioni"
+  },
+  "settingsSubtitle": {
+    "message": "Gestione dati e informazioni sull'estensione"
+  },
+  "dataManagementTitle": {
+    "message": "Gestione dati"
+  },
+  "dataInfo": {
+    "message": "Tutti i dati sono archiviati localmente sul tuo computer e non vengono mai trasmessi a server esterni."
+  },
+  "clearDataButton": {
+    "message": "Cancella tutti i dati"
+  },
+  "linksTitle": {
+    "message": "Link utili"
+  },
+  "linksDescription": {
+    "message": "Il codice sorgente dell'estensione è aperto e disponibile su GitHub."
+  },
+  "developerLink": {
+    "message": "Sviluppatore"
+  },
+  "permissionsTitle": {
+    "message": "Autorizzazioni"
+  },
+  "permissionsDescription": {
+    "message": "L'estensione utilizza un set minimo di autorizzazioni per funzionare:"
+  },
+  "permissionStorage": {
+    "message": "per salvare localmente statistiche di clic e distanza"
+  },
+  "privacyTitle": {
+    "message": "Privacy"
+  },
+  "privacyText1": {
+    "message": "MouseStat NON raccoglie, trasmette o archivia alcun dato personale."
+  },
+  "privacyText2": {
+    "message": "L'estensione funziona completamente offline e non richiede una connessione Internet."
+  },
+  "privacyText3": {
+    "message": "Tutte le statistiche sono archiviate solo sul tuo dispositivo e possono essere eliminate in qualsiasi momento."
+  },
+  "aboutTitle": {
+    "message": "Informazioni"
+  },
+  "aboutDescription": {
+    "message": "MouseStat tiene traccia delle statistiche di utilizzo del mouse: numero di clic, distanza percorsa dal cursore e distanza della rotellina di scorrimento."
+  },
+  "versionLabel": {
+    "message": "Versione:"
+  },
+  "authorLabel": {
+    "message": "Autore:"
+  },
+  "yearsLabel": {
+    "message": "Anno:"
+  },
+  "githubRepoLink": {
+    "message": "Repository GitHub"
+  },
+  "reportIssueLink": {
+    "message": "Segnala problema"
+  },
+  "licenseLabel": {
+    "message": "Licenza:"
+  },
+  "licenseLink": {
+    "message": "Licenza MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Impostazioni"
+  },
+  "backToMainButton": {
+    "message": "← Torna alla home"
+  }
+}

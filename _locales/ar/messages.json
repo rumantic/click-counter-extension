@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "اسم الامتداد"
+  },
+  "extensionDescription": {
+    "message": "إحصائيات استخدام الماوس: تتبع النقرات، مسافة المؤشر ومسافة عجلة التمرير.",
+    "description": "وصف الامتداد"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "إجمالي النقرات:"
+  },
+  "leftButton": {
+    "message": "الزر الأيسر:"
+  },
+  "rightButton": {
+    "message": "الزر الأيمن:"
+  },
+  "middleButton": {
+    "message": "الزر الأوسط:"
+  },
+  "cursorDistance": {
+    "message": "📏 المسافة المقطوعة:"
+  },
+  "scrollDistance": {
+    "message": "🎡 مسافة التمرير:"
+  },
+  "resetButton": {
+    "message": "إعادة تعيين العداد"
+  },
+  "resetConfirm": {
+    "message": "هل أنت متأكد أنك تريد إعادة تعيين العداد؟"
+  },
+  "unitCm": {
+    "message": "سم"
+  },
+  "unitM": {
+    "message": "م"
+  },
+  "unitKm": {
+    "message": "كم"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - الإعدادات"
+  },
+  "settingsSubtitle": {
+    "message": "إدارة البيانات ومعلومات الامتداد"
+  },
+  "dataManagementTitle": {
+    "message": "إدارة البيانات"
+  },
+  "dataInfo": {
+    "message": "يتم تخزين جميع البيانات محليًا على جهاز الكمبيوتر الخاص بك ولا يتم نقلها أبدًا إلى خوادم خارجية."
+  },
+  "clearDataButton": {
+    "message": "مسح جميع البيانات"
+  },
+  "linksTitle": {
+    "message": "روابط مفيدة"
+  },
+  "linksDescription": {
+    "message": "الكود المصدري للامتداد مفتوح ومتاح على GitHub."
+  },
+  "developerLink": {
+    "message": "المطور"
+  },
+  "permissionsTitle": {
+    "message": "الأذونات"
+  },
+  "permissionsDescription": {
+    "message": "يستخدم الامتداد الحد الأدنى من الأذونات للعمل:"
+  },
+  "permissionStorage": {
+    "message": "لحفظ إحصائيات النقرات والمسافة محليًا"
+  },
+  "privacyTitle": {
+    "message": "الخصوصية"
+  },
+  "privacyText1": {
+    "message": "MouseStat لا يجمع أو ينقل أو يخزن أي بيانات شخصية."
+  },
+  "privacyText2": {
+    "message": "يعمل الامتداد دون اتصال بالإنترنت بالكامل ولا يتطلب اتصالاً بالإنترنت."
+  },
+  "privacyText3": {
+    "message": "يتم تخزين جميع الإحصائيات فقط على جهازك ويمكن حذفها في أي وقت."
+  },
+  "aboutTitle": {
+    "message": "حول"
+  },
+  "aboutDescription": {
+    "message": "يتتبع MouseStat إحصائيات استخدام الماوس: عدد النقرات، المسافة المقطوعة بالمؤشر ومسافة عجلة التمرير."
+  },
+  "versionLabel": {
+    "message": "الإصدار:"
+  },
+  "authorLabel": {
+    "message": "المؤلف:"
+  },
+  "yearsLabel": {
+    "message": "السنة:"
+  },
+  "githubRepoLink": {
+    "message": "مستودع GitHub"
+  },
+  "reportIssueLink": {
+    "message": "الإبلاغ عن مشكلة"
+  },
+  "licenseLabel": {
+    "message": "الترخيص:"
+  },
+  "licenseLink": {
+    "message": "ترخيص MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ الإعدادات"
+  },
+  "backToMainButton": {
+    "message": "← العودة إلى الرئيسية"
+  }
+}

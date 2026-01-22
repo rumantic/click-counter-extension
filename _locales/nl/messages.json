@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Naam van de extensie"
+  },
+  "extensionDescription": {
+    "message": "Muisgebruikstatistieken: volg klikken, cursorafstand en scrollwielafstand.",
+    "description": "Extensiebeschrijving"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Totaal aantal klikken:"
+  },
+  "leftButton": {
+    "message": "Linkerknop:"
+  },
+  "rightButton": {
+    "message": "Rechterknop:"
+  },
+  "middleButton": {
+    "message": "Middelste knop:"
+  },
+  "cursorDistance": {
+    "message": "📏 Afgelegde afstand:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Scrollafstand:"
+  },
+  "resetButton": {
+    "message": "Teller resetten"
+  },
+  "resetConfirm": {
+    "message": "Weet u zeker dat u de teller wilt resetten?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Instellingen"
+  },
+  "settingsSubtitle": {
+    "message": "Gegevensbeheer en extensie-informatie"
+  },
+  "dataManagementTitle": {
+    "message": "Gegevensbeheer"
+  },
+  "dataInfo": {
+    "message": "Alle gegevens worden lokaal op uw computer opgeslagen en worden nooit verzonden naar externe servers."
+  },
+  "clearDataButton": {
+    "message": "Alle gegevens wissen"
+  },
+  "linksTitle": {
+    "message": "Nuttige links"
+  },
+  "linksDescription": {
+    "message": "De broncode van de extensie is open en beschikbaar op GitHub."
+  },
+  "developerLink": {
+    "message": "Ontwikkelaar"
+  },
+  "permissionsTitle": {
+    "message": "Machtigingen"
+  },
+  "permissionsDescription": {
+    "message": "De extensie gebruikt een minimale set machtigingen om te functioneren:"
+  },
+  "permissionStorage": {
+    "message": "om klikstatistieken en afstand lokaal op te slaan"
+  },
+  "privacyTitle": {
+    "message": "Privacy"
+  },
+  "privacyText1": {
+    "message": "MouseStat verzamelt, verzendt of slaat GEEN persoonlijke gegevens op."
+  },
+  "privacyText2": {
+    "message": "De extensie werkt volledig offline en vereist geen internetverbinding."
+  },
+  "privacyText3": {
+    "message": "Alle statistieken worden alleen op uw apparaat opgeslagen en kunnen op elk moment worden verwijderd."
+  },
+  "aboutTitle": {
+    "message": "Over"
+  },
+  "aboutDescription": {
+    "message": "MouseStat volgt muisgebruikstatistieken: aantal klikken, door de cursor afgelegde afstand en scrollwielafstand."
+  },
+  "versionLabel": {
+    "message": "Versie:"
+  },
+  "authorLabel": {
+    "message": "Auteur:"
+  },
+  "yearsLabel": {
+    "message": "Jaar:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub-repository"
+  },
+  "reportIssueLink": {
+    "message": "Probleem melden"
+  },
+  "licenseLabel": {
+    "message": "Licentie:"
+  },
+  "licenseLink": {
+    "message": "MIT-licentie"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Instellingen"
+  },
+  "backToMainButton": {
+    "message": "← Terug naar hoofdpagina"
+  }
+}

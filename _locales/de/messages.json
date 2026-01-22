@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Mausnutzungsstatistiken: Verfolgen von Klicks, Cursor-Entfernung und Mausrad-Scrolldistanz.",
+    "description": "Beschreibung der Erweiterung"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Klicks insgesamt:"
+  },
+  "leftButton": {
+    "message": "Linke Taste:"
+  },
+  "rightButton": {
+    "message": "Rechte Taste:"
+  },
+  "middleButton": {
+    "message": "Mittlere Taste:"
+  },
+  "cursorDistance": {
+    "message": "📏 Cursor-Strecke:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Scroll-Distanz:"
+  },
+  "resetButton": {
+    "message": "Zähler zurücksetzen"
+  },
+  "resetConfirm": {
+    "message": "Sind Sie sicher, dass Sie den Zähler zurücksetzen möchten?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Einstellungen"
+  },
+  "settingsSubtitle": {
+    "message": "Datenverwaltung und Informationen zur Erweiterung"
+  },
+  "dataManagementTitle": {
+    "message": "Datenverwaltung"
+  },
+  "dataInfo": {
+    "message": "Alle Daten werden lokal auf Ihrem Computer gespeichert und niemals an externe Server übertragen."
+  },
+  "clearDataButton": {
+    "message": "Alle Daten löschen"
+  },
+  "linksTitle": {
+    "message": "Nützliche Links"
+  },
+  "linksDescription": {
+    "message": "Der Quellcode der Erweiterung ist offen und auf GitHub verfügbar."
+  },
+  "developerLink": {
+    "message": "Entwickler"
+  },
+  "permissionsTitle": {
+    "message": "Berechtigungen"
+  },
+  "permissionsDescription": {
+    "message": "Die Erweiterung verwendet minimale Berechtigungen zum Funktionieren:"
+  },
+  "permissionStorage": {
+    "message": "um Klickstatistiken und Entfernung lokal zu speichern"
+  },
+  "privacyTitle": {
+    "message": "Datenschutz"
+  },
+  "privacyText1": {
+    "message": "MouseStat sammelt, überträgt oder speichert KEINE persönlichen Daten."
+  },
+  "privacyText2": {
+    "message": "Die Erweiterung funktioniert vollständig offline und benötigt keine Internetverbindung."
+  },
+  "privacyText3": {
+    "message": "Alle Statistiken werden nur auf Ihrem Gerät gespeichert und können jederzeit gelöscht werden."
+  },
+  "aboutTitle": {
+    "message": "Über"
+  },
+  "aboutDescription": {
+    "message": "MouseStat verfolgt Mausnutzungsstatistiken: Anzahl der Klicks, zurückgelegte Cursor-Distanz und Mausrad-Scrolldistanz."
+  },
+  "versionLabel": {
+    "message": "Version:"
+  },
+  "authorLabel": {
+    "message": "Autor:"
+  },
+  "yearsLabel": {
+    "message": "Jahr:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub-Repository"
+  },
+  "reportIssueLink": {
+    "message": "Problem melden"
+  },
+  "licenseLabel": {
+    "message": "Lizenz:"
+  },
+  "licenseLink": {
+    "message": "MIT-Lizenz"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Einstellungen"
+  },
+  "backToMainButton": {
+    "message": "← Zurück zur Startseite"
+  }
+}

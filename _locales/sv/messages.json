@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Namn på tillägget"
+  },
+  "extensionDescription": {
+    "message": "Musanvändningsstatistik: spåra klick, muspekarens avstånd och rullhjulets avstånd.",
+    "description": "Beskrivning av tillägget"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Totalt antal klick:"
+  },
+  "leftButton": {
+    "message": "Vänster knapp:"
+  },
+  "rightButton": {
+    "message": "Höger knapp:"
+  },
+  "middleButton": {
+    "message": "Mittenknapp:"
+  },
+  "cursorDistance": {
+    "message": "📏 Tillryggalagt avstånd:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Rullningsavstånd:"
+  },
+  "resetButton": {
+    "message": "Återställ räknare"
+  },
+  "resetConfirm": {
+    "message": "Är du säker på att du vill återställa räknaren?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Inställningar"
+  },
+  "settingsSubtitle": {
+    "message": "Datahantering och information om tillägget"
+  },
+  "dataManagementTitle": {
+    "message": "Datahantering"
+  },
+  "dataInfo": {
+    "message": "All data lagras lokalt på din dator och överförs aldrig till externa servrar."
+  },
+  "clearDataButton": {
+    "message": "Rensa all data"
+  },
+  "linksTitle": {
+    "message": "Användbara länkar"
+  },
+  "linksDescription": {
+    "message": "Tilläggskällkoden är öppen och tillgänglig på GitHub."
+  },
+  "developerLink": {
+    "message": "Utvecklare"
+  },
+  "permissionsTitle": {
+    "message": "Behörigheter"
+  },
+  "permissionsDescription": {
+    "message": "Tillägget använder en minimal uppsättning behörigheter för att fungera:"
+  },
+  "permissionStorage": {
+    "message": "för att lokalt spara klickstatistik och avstånd"
+  },
+  "privacyTitle": {
+    "message": "Integritet"
+  },
+  "privacyText1": {
+    "message": "MouseStat samlar INTE in, överför eller lagrar någon personlig data."
+  },
+  "privacyText2": {
+    "message": "Tillägget fungerar helt offline och kräver ingen internetanslutning."
+  },
+  "privacyText3": {
+    "message": "All statistik lagras endast på din enhet och kan raderas när som helst."
+  },
+  "aboutTitle": {
+    "message": "Om"
+  },
+  "aboutDescription": {
+    "message": "MouseStat spårar musanvändningsstatistik: antal klick, avstånd som muspekaren tillryggalagt och rullhjulets avstånd."
+  },
+  "versionLabel": {
+    "message": "Version:"
+  },
+  "authorLabel": {
+    "message": "Författare:"
+  },
+  "yearsLabel": {
+    "message": "År:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub-förråd"
+  },
+  "reportIssueLink": {
+    "message": "Rapportera problem"
+  },
+  "licenseLabel": {
+    "message": "Licens:"
+  },
+  "licenseLink": {
+    "message": "MIT-licens"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Inställningar"
+  },
+  "backToMainButton": {
+    "message": "← Tillbaka till huvudsidan"
+  }
+}

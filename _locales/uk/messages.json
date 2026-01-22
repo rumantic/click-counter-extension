@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Назва розширення"
+  },
+  "extensionDescription": {
+    "message": "Статистика використання миші: відстеження кліків, дистанція курсора та прокручування колесиком.",
+    "description": "Опис розширення"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Всього кліків:"
+  },
+  "leftButton": {
+    "message": "Ліва кнопка:"
+  },
+  "rightButton": {
+    "message": "Права кнопка:"
+  },
+  "middleButton": {
+    "message": "Середня кнопка:"
+  },
+  "cursorDistance": {
+    "message": "📏 Курсор пройшов:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Прокручено колесиком:"
+  },
+  "resetButton": {
+    "message": "Скинути лічильник"
+  },
+  "resetConfirm": {
+    "message": "Ви впевнені, що хочете скинути лічильник?"
+  },
+  "unitCm": {
+    "message": "см"
+  },
+  "unitM": {
+    "message": "м"
+  },
+  "unitKm": {
+    "message": "км"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Налаштування"
+  },
+  "settingsSubtitle": {
+    "message": "Управління даними та інформація про розширення"
+  },
+  "dataManagementTitle": {
+    "message": "Управління даними"
+  },
+  "dataInfo": {
+    "message": "Всі дані зберігаються локально на вашому комп'ютері і ніколи не передаються на зовнішні сервери."
+  },
+  "clearDataButton": {
+    "message": "Видалити всі дані"
+  },
+  "linksTitle": {
+    "message": "Корисні посилання"
+  },
+  "linksDescription": {
+    "message": "Вихідний код розширення відкритий і доступний на GitHub."
+  },
+  "developerLink": {
+    "message": "Розробник"
+  },
+  "permissionsTitle": {
+    "message": "Дозволи"
+  },
+  "permissionsDescription": {
+    "message": "Розширення використовує мінімальний набір дозволів для своєї роботи:"
+  },
+  "permissionStorage": {
+    "message": "для локального збереження статистики кліків та дистанції"
+  },
+  "privacyTitle": {
+    "message": "Конфіденційність"
+  },
+  "privacyText1": {
+    "message": "MouseStat НЕ збирає, НЕ передає і НЕ зберігає жодних особистих даних."
+  },
+  "privacyText2": {
+    "message": "Розширення працює повністю автономно і не потребує підключення до інтернету."
+  },
+  "privacyText3": {
+    "message": "Вся статистика зберігається тільки на вашому пристрої і може бути видалена в будь-який момент."
+  },
+  "aboutTitle": {
+    "message": "Про розширення"
+  },
+  "aboutDescription": {
+    "message": "MouseStat відстежує статистику використання миші: кількість кліків, пройдену курсором дистанцію та прокручування колесиком."
+  },
+  "versionLabel": {
+    "message": "Версія:"
+  },
+  "authorLabel": {
+    "message": "Автор:"
+  },
+  "yearsLabel": {
+    "message": "Рік:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub репозиторій"
+  },
+  "reportIssueLink": {
+    "message": "Повідомити про проблему"
+  },
+  "licenseLabel": {
+    "message": "Ліцензія:"
+  },
+  "licenseLink": {
+    "message": "Ліцензія MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Налаштування"
+  },
+  "backToMainButton": {
+    "message": "← Повернутися на головну"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Název rozšíření"
+  },
+  "extensionDescription": {
+    "message": "Statistiky používání myši: sledování kliknutí, vzdálenosti kurzoru a vzdálenosti kolečka myši.",
+    "description": "Popis rozšíření"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Celkem kliknutí:"
+  },
+  "leftButton": {
+    "message": "Levé tlačítko:"
+  },
+  "rightButton": {
+    "message": "Pravé tlačítko:"
+  },
+  "middleButton": {
+    "message": "Prostřední tlačítko:"
+  },
+  "cursorDistance": {
+    "message": "📏 Uražená vzdálenost:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Vzdálenost posouvání:"
+  },
+  "resetButton": {
+    "message": "Resetovat počítadlo"
+  },
+  "resetConfirm": {
+    "message": "Opravdu chcete resetovat počítadlo?"
+  },
+  "unitCm": {
+    "message": "cm"
+  },
+  "unitM": {
+    "message": "m"
+  },
+  "unitKm": {
+    "message": "km"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Nastavení"
+  },
+  "settingsSubtitle": {
+    "message": "Správa dat a informace o rozšíření"
+  },
+  "dataManagementTitle": {
+    "message": "Správa dat"
+  },
+  "dataInfo": {
+    "message": "Všechna data jsou uložena lokálně ve vašem počítači a nikdy nejsou přenášena na externí servery."
+  },
+  "clearDataButton": {
+    "message": "Vymazat všechna data"
+  },
+  "linksTitle": {
+    "message": "Užitečné odkazy"
+  },
+  "linksDescription": {
+    "message": "Zdrojový kód rozšíření je otevřený a dostupný na GitHubu."
+  },
+  "developerLink": {
+    "message": "Vývojář"
+  },
+  "permissionsTitle": {
+    "message": "Oprávnění"
+  },
+  "permissionsDescription": {
+    "message": "Rozšíření používá minimální sadu oprávnění pro funkčnost:"
+  },
+  "permissionStorage": {
+    "message": "pro lokální ukládání statistik kliknutí a vzdálenosti"
+  },
+  "privacyTitle": {
+    "message": "Soukromí"
+  },
+  "privacyText1": {
+    "message": "MouseStat NEshromažďuje, NEpřenáší ani NEukládá žádná osobní data."
+  },
+  "privacyText2": {
+    "message": "Rozšíření funguje zcela offline a nevyžaduje připojení k internetu."
+  },
+  "privacyText3": {
+    "message": "Všechny statistiky jsou uloženy pouze ve vašem zařízení a mohou být kdykoli smazány."
+  },
+  "aboutTitle": {
+    "message": "O rozšíření"
+  },
+  "aboutDescription": {
+    "message": "MouseStat sleduje statistiky používání myši: počet kliknutí, vzdálenost ujetou kurzorem a vzdálenost kolečka myši."
+  },
+  "versionLabel": {
+    "message": "Verze:"
+  },
+  "authorLabel": {
+    "message": "Autor:"
+  },
+  "yearsLabel": {
+    "message": "Rok:"
+  },
+  "githubRepoLink": {
+    "message": "GitHub repozitář"
+  },
+  "reportIssueLink": {
+    "message": "Nahlásit problém"
+  },
+  "licenseLabel": {
+    "message": "Licence:"
+  },
+  "licenseLink": {
+    "message": "MIT licence"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Nastavení"
+  },
+  "backToMainButton": {
+    "message": "← Zpět na hlavní stránku"
+  }
+}

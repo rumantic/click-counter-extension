@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "Όνομα επέκτασης"
+  },
+  "extensionDescription": {
+    "message": "Στατιστικά χρήσης ποντικιού: παρακολούθηση κλικ, απόσταση δρομέα και απόσταση ροδέλας κύλισης.",
+    "description": "Περιγραφή επέκτασης"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "Συνολικά κλικ:"
+  },
+  "leftButton": {
+    "message": "Αριστερό πλήκτρο:"
+  },
+  "rightButton": {
+    "message": "Δεξί πλήκτρο:"
+  },
+  "middleButton": {
+    "message": "Μεσαίο πλήκτρο:"
+  },
+  "cursorDistance": {
+    "message": "📏 Απόσταση δρομέα:"
+  },
+  "scrollDistance": {
+    "message": "🎡 Απόσταση κύλισης:"
+  },
+  "resetButton": {
+    "message": "Επαναφορά μετρητή"
+  },
+  "resetConfirm": {
+    "message": "Είστε βέβαιοι ότι θέλετε να επαναφέρετε τον μετρητή;"
+  },
+  "unitCm": {
+    "message": "εκ"
+  },
+  "unitM": {
+    "message": "μ"
+  },
+  "unitKm": {
+    "message": "χλμ"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - Ρυθμίσεις"
+  },
+  "settingsSubtitle": {
+    "message": "Διαχείριση δεδομένων και πληροφορίες επέκτασης"
+  },
+  "dataManagementTitle": {
+    "message": "Διαχείριση δεδομένων"
+  },
+  "dataInfo": {
+    "message": "Όλα τα δεδομένα αποθηκεύονται τοπικά στον υπολογιστή σας και δεν μεταδίδονται ποτέ σε εξωτερικούς διακομιστές."
+  },
+  "clearDataButton": {
+    "message": "Διαγραφή όλων των δεδομένων"
+  },
+  "linksTitle": {
+    "message": "Χρήσιμοι σύνδεσμοι"
+  },
+  "linksDescription": {
+    "message": "Ο πηγαίος κώδικας της επέκτασης είναι ανοιχτός και διαθέσιμος στο GitHub."
+  },
+  "developerLink": {
+    "message": "Προγραμματιστής"
+  },
+  "permissionsTitle": {
+    "message": "Δικαιώματα"
+  },
+  "permissionsDescription": {
+    "message": "Η επέκταση χρησιμοποιεί ένα ελάχιστο σύνολο δικαιωμάτων για να λειτουργήσει:"
+  },
+  "permissionStorage": {
+    "message": "για την τοπική αποθήκευση στατιστικών κλικ και απόστασης"
+  },
+  "privacyTitle": {
+    "message": "Απόρρητο"
+  },
+  "privacyText1": {
+    "message": "Το MouseStat ΔΕΝ συλλέγει, ΔΕΝ μεταδίδει και ΔΕΝ αποθηκεύει προσωπικά δεδομένα."
+  },
+  "privacyText2": {
+    "message": "Η επέκταση λειτουργεί εντελώς εκτός σύνδεσης και δεν απαιτεί σύνδεση στο διαδίκτυο."
+  },
+  "privacyText3": {
+    "message": "Όλα τα στατιστικά αποθηκεύονται μόνο στη συσκευή σας και μπορούν να διαγραφούν ανά πάσα στιγμή."
+  },
+  "aboutTitle": {
+    "message": "Σχετικά"
+  },
+  "aboutDescription": {
+    "message": "Το MouseStat παρακολουθεί στατιστικά χρήσης ποντικιού: αριθμό κλικ, απόσταση που διανύθηκε από τον δρομέα και απόσταση ροδέλας κύλισης."
+  },
+  "versionLabel": {
+    "message": "Έκδοση:"
+  },
+  "authorLabel": {
+    "message": "Συγγραφέας:"
+  },
+  "yearsLabel": {
+    "message": "Έτος:"
+  },
+  "githubRepoLink": {
+    "message": "Αποθετήριο GitHub"
+  },
+  "reportIssueLink": {
+    "message": "Αναφορά προβλήματος"
+  },
+  "licenseLabel": {
+    "message": "Άδεια:"
+  },
+  "licenseLink": {
+    "message": "Άδεια MIT"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ Ρυθμίσεις"
+  },
+  "backToMainButton": {
+    "message": "← Επιστροφή στην κύρια"
+  }
+}

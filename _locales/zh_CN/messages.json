@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "MouseStat",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "鼠标使用统计：跟踪点击次数、光标移动距离和滚轮滚动距离。",
+    "description": "扩展描述"
+  },
+  "popupTitle": {
+    "message": "🖱️ MouseStat"
+  },
+  "totalClicks": {
+    "message": "总点击次数："
+  },
+  "leftButton": {
+    "message": "左键："
+  },
+  "rightButton": {
+    "message": "右键："
+  },
+  "middleButton": {
+    "message": "中键："
+  },
+  "cursorDistance": {
+    "message": "📏 光标移动距离："
+  },
+  "scrollDistance": {
+    "message": "🎡 滚动距离："
+  },
+  "resetButton": {
+    "message": "重置计数器"
+  },
+  "resetConfirm": {
+    "message": "您确定要重置计数器吗？"
+  },
+  "unitCm": {
+    "message": "厘米"
+  },
+  "unitM": {
+    "message": "米"
+  },
+  "unitKm": {
+    "message": "公里"
+  },
+  "settingsTitle": {
+    "message": "MouseStat - 设置"
+  },
+  "settingsSubtitle": {
+    "message": "数据管理和扩展信息"
+  },
+  "dataManagementTitle": {
+    "message": "数据管理"
+  },
+  "dataInfo": {
+    "message": "所有数据都存储在您的计算机本地，永远不会传输到外部服务器。"
+  },
+  "clearDataButton": {
+    "message": "清除所有数据"
+  },
+  "linksTitle": {
+    "message": "有用链接"
+  },
+  "linksDescription": {
+    "message": "扩展源代码开放，可在GitHub上查看。"
+  },
+  "developerLink": {
+    "message": "开发者"
+  },
+  "permissionsTitle": {
+    "message": "权限"
+  },
+  "permissionsDescription": {
+    "message": "扩展使用最少的权限来运行："
+  },
+  "permissionStorage": {
+    "message": "本地保存点击统计和距离"
+  },
+  "privacyTitle": {
+    "message": "隐私"
+  },
+  "privacyText1": {
+    "message": "MouseStat不收集、不传输、不存储任何个人数据。"
+  },
+  "privacyText2": {
+    "message": "扩展完全离线工作，不需要互联网连接。"
+  },
+  "privacyText3": {
+    "message": "所有统计数据仅存储在您的设备上，可以随时删除。"
+  },
+  "aboutTitle": {
+    "message": "关于"
+  },
+  "aboutDescription": {
+    "message": "MouseStat跟踪鼠标使用统计：点击次数、光标移动距离和滚轮滚动距离。"
+  },
+  "versionLabel": {
+    "message": "版本："
+  },
+  "authorLabel": {
+    "message": "作者："
+  },
+  "yearsLabel": {
+    "message": "年："
+  },
+  "githubRepoLink": {
+    "message": "GitHub仓库"
+  },
+  "reportIssueLink": {
+    "message": "报告问题"
+  },
+  "licenseLabel": {
+    "message": "许可证："
+  },
+  "licenseLink": {
+    "message": "MIT许可证"
+  },
+  "openSettingsButton": {
+    "message": "⚙️ 设置"
+  },
+  "backToMainButton": {
+    "message": "← 返回主页"
+  }
+}
